@@ -36,7 +36,6 @@ def display_menu():
     
     print("=" * 50)
 
-
 def display_balance():
     #Displays the user's current balance.
     print(f"\n  Current Balance: AED {balance:.2f}")
