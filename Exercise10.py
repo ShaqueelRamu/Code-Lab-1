@@ -3,7 +3,7 @@
 #Function determines if number is odd or even
 def check_even_odd(number):
     
-    #Uses modulo operator to check divisibility by 2
+    #Uses an operator to check divisibility by 2
     if number % 2 == 0:
         return "even" #Even number, if remainder is 0
     else:
@@ -17,6 +17,6 @@ def main():
         print(f"The Number {user_number} Is {result_message}.")
     except ValueError:
         print("Invalid input. Please enter an integer")
-#ensures that the program runs when executed
+#Makes sure that the program runs when executed
 if __name__ =="__main__":
     main()

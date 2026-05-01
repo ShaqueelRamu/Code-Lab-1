@@ -1,4 +1,5 @@
 # I turned the user's name and hometown into strings
+# Askes user for personal information
 name = str(input("Enter your Full Name:"))
 hometown = str(input("Enter yout hometown:"))
 
@@ -6,7 +7,7 @@ hometown = str(input("Enter yout hometown:"))
 while True:
     age = input("Enter yout age:")
     try:
-        # I Converted the input string to an integer
+        # Converts the input string to an integer
         age = int(age)
         #Leaves loop if integer is valid
         break

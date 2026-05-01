@@ -1,6 +1,6 @@
 #Define Correct password and max attempts
 def password_entry_system():
-    correct_password = "3502" 
+    correct_password = "2458" 
     max_attempts = 5
     attempts_left: int = max_attempts
 
