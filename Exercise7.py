@@ -22,3 +22,7 @@ for i in range(0,50): #range(start, stop, step)
     print("\nCounting up from 100 to 200 in increments of 5:")
     for i in range(100,201,4):
         print(i)    
+        
+#References
+#Python Range-https://www.w3schools.com/python/ref_func_range.asp
+#For loops- https://www.w3schools.com/python/python_for_loops.asp

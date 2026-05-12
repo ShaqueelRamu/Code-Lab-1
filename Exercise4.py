@@ -60,3 +60,16 @@ def european_capitals_quizlet():
 
 if __name__ == "__main__":
     european_capitals_quizlet()
+    
+#References
+#"Capitals of Europe"- https://www.countries-ofthe-world.com/capitals-of-europe.html
+#"Python Tutorial Video 1" (YouTube) - https://www.youtube.com/watch?v=ps1CKOGxvk6
+#"Python Tutorial Video 2" (YouTube) - https://www.youtube.com/watch?v=vf4DFe7UfYQ
+#"Python enumerate() Function" - https://www.w3schools.com/python/ref_func_enumerate.asp
+#"Python String Formatting"- https://www.w3schools.com/python/python_string_formatting.asp
+#"Python strip() Method" - https://www.w3schools.com/python/ref_string_strip.asp
+#"Python title) Method" - https://www.w3schools.com/python/ref_string_title.asp
+#"Python if _name_ = '_main_'-https://realpython.com/if-name-main-python/
+#"Python random. shuffle() Method" - https://www.w3schools.com/python/ref_random_shuffle.asp
+#"Python Dictionary keys) Method" - https://www.w3schools.com/python/ref_dictionary_keys.asp
+#Python For Loops" - https://www.w3schools.com/python/python_for_1oops.asp

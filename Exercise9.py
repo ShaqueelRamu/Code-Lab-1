@@ -6,3 +6,6 @@ def main():
 #Ensures the main() function runs properly
 if __name__ == "__main__":
     main()
+    
+#References
+#Def Function- https://www.w3schools.com/python/python_functions.asp

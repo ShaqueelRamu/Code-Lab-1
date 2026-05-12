@@ -26,3 +26,8 @@ Biography = {
  
  #prints the values in separate lines
 print(f"Name: {Biography['name']}\nHometown: {Biography['hometown']}\nAge: {Biography['age']}")
+
+#References
+#Dictionaries- https://www.w3schools.com/python/python_dictionaries.asp
+#While loops-https://www.w3schools.com/python/python_while_loops.asp
+#String Formatting- https://www.w3schools.com/python/python_string_formatting.asp 

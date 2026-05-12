@@ -22,3 +22,6 @@ def password_entry_system():
                 print("Maximum attempts reached. Try Again In The Next 24H")
 #Runs The Program
 password_entry_system()
+
+#References
+#"Python if...elif...else" - https://www.programiz.com/python-programming/if-elif-else

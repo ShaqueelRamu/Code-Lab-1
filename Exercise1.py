@@ -9,3 +9,7 @@ phrase = word1 + " " + word2 + " " + word3
 
 # Here I Displayed the final result of the code above
 print (phrase)
+
+#References:
+#Python Strin concatinations- https://www.w3schools.com/python/python_strings_concatenate.asp
+#Variables- https://www.w3schools.com/python/python_variables.asp

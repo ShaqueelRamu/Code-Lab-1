@@ -65,3 +65,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#References
+#"Python if...elif...else" - https://www.programiz.com/python-programming/if-elif-else
+#"Python lower () Method"- https://www.w3schools.com/python/ref_string_lower.asp

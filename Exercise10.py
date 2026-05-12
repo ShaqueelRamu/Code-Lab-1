@@ -20,3 +20,6 @@ def main():
 #Makes sure that the program runs when executed
 if __name__ =="__main__":
     main()
+    
+#References
+#Check even or odd-https://www.w3schools.com/python/trypython.asp?filename=demo_else_even_odd
